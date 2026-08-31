@@ -1,5 +1,22 @@
 [
   {
+    "id": "7a6413cf-1738-4e15-bdf3-d0faaecfe5ac",
+    "slug": "almuerzo-normal",
+    "nombre": "Almuerzo normal",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Delicioso almuerzo con sazón casera",
+    "stock": null,
+    "imagenes": [
+      "/producto/almuerzo-normal/images/almuerzo-normal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "3d434951-7654-4f49-b156-f2de7d4abf4f",
     "slug": "almuerzo-normal",
     "nombre": "Almuerzo normal",
