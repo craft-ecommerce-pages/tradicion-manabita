@@ -12,6 +12,18 @@
     "secos": "Secos",
     "tigrillos": "Tigrillos"
   },
+  "category_order": [
+    "almuerzos",
+    "arroces-pescados",
+    "tigrillos",
+    "bolones",
+    "encocados",
+    "ceviches",
+    "secos",
+    "camarones",
+    "corvinas",
+    "pescados"
+  ],
   "currency": "$",
   "hero_title": "El sabor que nos hace \u003cspan class=\"hl\"\u003esentir en casa\u003c/span\u003e",
   "logo": "logo.png",

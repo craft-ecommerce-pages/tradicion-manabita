@@ -1,1 +1,497 @@
-[]
+[
+  {
+    "id": "3d434951-7654-4f49-b156-f2de7d4abf4f",
+    "slug": "almuerzo-normal-con-encebollado",
+    "nombre": "Almuerzo normal con encebollado",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Almuerzo casero acompañado de encebollado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b77debd9-a7e6-4389-a47a-7a67c3504420",
+    "slug": "arroz-con-camaron",
+    "nombre": "Arroz con camarón",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-pescados"
+    ],
+    "descripcion": "Arroz sazonado al estilo de la casa con camarones.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "09e6d322-3673-4292-b710-16fb0125c76e",
+    "slug": "arroz-marinero",
+    "nombre": "Arroz marinero",
+    "precio": "12.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-pescados"
+    ],
+    "descripcion": "Arroz abundante con selección de mariscos y sazón costeña.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "84258e80-5928-4140-9162-854e6d0fe3c6",
+    "slug": "arroz-mixto",
+    "nombre": "Arroz mixto",
+    "precio": "10.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-pescados"
+    ],
+    "descripcion": "Arroz preparado con una sabrosa combinación de mariscos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "bf5c6916-f1f4-441c-b4e7-da656f8faa2f",
+    "slug": "bolon-cafe",
+    "nombre": "Bolón + café",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bolones"
+    ],
+    "descripcion": "Bolón tradicional acompañado de café caliente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f7c82ce8-655a-4276-931f-cfaa6ebe6582",
+    "slug": "bolon-completo",
+    "nombre": "Bolón completo",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "bolones"
+    ],
+    "descripcion": "Bolón de verde servido como desayuno completo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "abd14d0a-656f-4ac2-8a69-53b05f38ea80",
+    "slug": "bolon-mixto",
+    "nombre": "Bolón mixto",
+    "precio": "1.75",
+    "precio_promo": "",
+    "categorias": [
+      "bolones"
+    ],
+    "descripcion": "Bolón de verde con relleno mixto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "59d8d87a-4722-45fe-8154-8a3b0db5fdfe",
+    "slug": "camarones-al-ajillo",
+    "nombre": "Camarones al ajillo",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "camarones"
+    ],
+    "descripcion": "Camarones salteados con ajo y sazón de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0ac958de-9618-4555-83c8-391220ae7980",
+    "slug": "camarones-a-la-plancha",
+    "nombre": "Camarones a la plancha",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "camarones"
+    ],
+    "descripcion": "Camarones a la plancha, jugosos y bien sazonados.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ce7c2c15-f3b1-49f7-b6df-3a9a280c6d23",
+    "slug": "camarones-apanados",
+    "nombre": "Camarones apanados",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "camarones"
+    ],
+    "descripcion": "Camarones dorados con una cubierta crujiente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "4b10bcb9-e41e-4d0b-929d-de12c07342a3",
+    "slug": "ceviche-de-camaron",
+    "nombre": "Ceviche de camarón",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Camarones en jugo cítrico con cebolla y cilantro.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ca826131-66ea-46ad-bfff-7967df69f1d6",
+    "slug": "ceviche-de-concha",
+    "nombre": "Ceviche de concha",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Conchas frescas preparadas con limón, cebolla y cilantro.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "47094fe6-ccbe-437b-8206-09ec2946c244",
+    "slug": "ceviche-de-pescado",
+    "nombre": "Ceviche de pescado",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Pescado fresco marinado con limón, cebolla y cilantro.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a964ab69-a592-458d-8589-fd700bf55900",
+    "slug": "ceviche-mixto",
+    "nombre": "Ceviche mixto",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Combinación fresca de mariscos con el aliño de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "fceb93f1-4750-4cec-b951-20a0840d4523",
+    "slug": "ceviche-super-mixto",
+    "nombre": "Ceviche súper mixto",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Una porción generosa con variedad de mariscos frescos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "affdd87e-02b1-4366-941c-3daa5305f73c",
+    "slug": "corvina-apanada",
+    "nombre": "Corvina apanada",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "corvinas"
+    ],
+    "descripcion": "Corvina con cubierta crujiente, frita al momento.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "635dcf0a-282d-4436-a974-e2b3833ba9fd",
+    "slug": "corvina-frita",
+    "nombre": "Corvina frita",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "corvinas"
+    ],
+    "descripcion": "Corvina frita hasta quedar dorada y crujiente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c4de7e39-9744-4c1f-83cf-2503a7eb775a",
+    "slug": "desayuno",
+    "nombre": "Desayuno",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "almuerzos"
+    ],
+    "descripcion": "Desayuno tradicional para comenzar el día con sabor manabita.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c7006c7c-b7b6-43f7-a24c-86a81d8dedd9",
+    "slug": "encocado-con-camaron",
+    "nombre": "Encocado con camarón",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Camarones bañados en salsa de coco y especias de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "4f0a9ab0-17b7-4827-ad63-10a2c09a01da",
+    "slug": "encocado-de-pescado",
+    "nombre": "Encocado de pescado",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Pescado cocinado en una cremosa salsa de coco con sazón costeña.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8d6b6db4-4571-4948-a2e2-039300682f49",
+    "slug": "encocado-marinero",
+    "nombre": "Encocado marinero",
+    "precio": "12.00",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Selección especial de mariscos cocinados en salsa de coco.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "45f06023-074b-47ab-8712-ea8247a66466",
+    "slug": "encocado-mixto",
+    "nombre": "Encocado mixto",
+    "precio": "10.00",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Combinación de mariscos en salsa de coco.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7b4fdf6b-0118-47b8-9f33-9fc79d6045f1",
+    "slug": "filete-a-la-plancha",
+    "nombre": "Filete a la plancha",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados"
+    ],
+    "descripcion": "Filete de pescado a la plancha con sazón de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5a6b5e97-c54f-434c-bae3-b5e778446fb7",
+    "slug": "filete-apanado",
+    "nombre": "Filete apanado",
+    "precio": "7.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados"
+    ],
+    "descripcion": "Filete de pescado con cubierta crujiente.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8b7068ce-c85f-49f4-9462-e95b7a7c4dc3",
+    "slug": "pescado-al-vapor",
+    "nombre": "Pescado al vapor",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "pescados"
+    ],
+    "descripcion": "Pescado cocido al vapor, ligero y lleno de sabor.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f37de846-b99b-4527-a920-feffd2d81f22",
+    "slug": "pescado-frito-mediano-con-encebollado",
+    "nombre": "Pescado frito mediano con encebollado",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-pescados"
+    ],
+    "descripcion": "Pescado frito en porción mediana, acompañado de encebollado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "39fc7c2e-2d6f-4410-babc-bb28576adcf0",
+    "slug": "pescado-frito-pequeno-con-encebollado",
+    "nombre": "Pescado frito pequeño con encebollado",
+    "precio": "5.00",
+    "precio_promo": "",
+    "categorias": [
+      "arroces-pescados"
+    ],
+    "descripcion": "Pescado frito acompañado de encebollado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "bbeca3e5-32cc-4a19-bdf6-3050d48920d1",
+    "slug": "seco-de-carne-porcion-1",
+    "nombre": "Seco de carne · porción 1",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Carne cocinada lentamente en salsa criolla, con acompañantes.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "644af5fb-8e3c-4a4c-b909-82db7ab4ef6b",
+    "slug": "seco-de-carne-porcion-2",
+    "nombre": "Seco de carne · porción 2",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Porción especial de seco de carne con acompañantes.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "bf8af95a-3034-447e-a6e8-01fdd9cf8550",
+    "slug": "seco-de-pollo-porcion-1",
+    "nombre": "Seco de pollo · porción 1",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Pollo en salsa criolla, servido con acompañantes.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b5b19a69-280f-4f1f-880d-386b329f3d19",
+    "slug": "seco-de-pollo-porcion-2",
+    "nombre": "Seco de pollo · porción 2",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Porción especial de seco de pollo con acompañantes.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b7d182c2-f709-4fa4-8432-6a65d6f7d79a",
+    "slug": "tigrillo-clasico",
+    "nombre": "Tigrillo clásico",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "tigrillos"
+    ],
+    "descripcion": "Verde majado con queso y el sabor tradicional de Manabí.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "be63a364-c8f4-4a41-bbc7-044fe3a55da9",
+    "slug": "tigrillo-jipijapa",
+    "nombre": "Tigrillo Jipijapa",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "tigrillos"
+    ],
+    "descripcion": "Nuestra preparación especial de tigrillo al estilo Jipijapa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  }
+]
