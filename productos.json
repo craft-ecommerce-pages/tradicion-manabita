@@ -40,7 +40,9 @@
     ],
     "descripcion": "Arroz abundante con selección de mariscos y sazón costeña.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-marinero/images/arroz-marinero-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -55,7 +57,9 @@
     ],
     "descripcion": "Arroz preparado con una sabrosa combinación de mariscos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-mixto/images/arroz-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -70,7 +74,9 @@
     ],
     "descripcion": "Bolón tradicional acompañado de café caliente.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-cafe/images/bolon-cafe-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -85,7 +91,9 @@
     ],
     "descripcion": "Bolón de verde servido como desayuno completo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-completo/images/bolon-completo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -100,7 +108,9 @@
     ],
     "descripcion": "Bolón de verde con relleno mixto.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bolon-mixto/images/bolon-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -200,7 +210,9 @@
     ],
     "descripcion": "Pescado fresco marinado con limón, cebolla y cilantro.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-de-pescado/images/ceviche-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -298,7 +310,9 @@
     ],
     "descripcion": "Camarones bañados en salsa de coco y especias de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-con-camaron/images/encocado-con-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -313,7 +327,9 @@
     ],
     "descripcion": "Pescado cocinado en una cremosa salsa de coco con sazón costeña.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-de-pescado/images/encocado-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -328,7 +344,9 @@
     ],
     "descripcion": "Selección especial de mariscos cocinados en salsa de coco.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-marinero/images/encocado-marinero-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -343,7 +361,9 @@
     ],
     "descripcion": "Combinación de mariscos en salsa de coco.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-mixto/images/encocado-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -507,7 +527,9 @@
     ],
     "descripcion": "Verde majado con queso y el sabor tradicional de Manabí.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-clasico/images/tigrillo-clasico-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -522,7 +544,9 @@
     ],
     "descripcion": "Nuestra preparación especial de tigrillo al estilo Jipijapa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tigrillo-jipijapa/images/tigrillo-jipijapa-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   }
