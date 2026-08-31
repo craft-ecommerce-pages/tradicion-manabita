@@ -115,7 +115,9 @@
     ],
     "descripcion": "Camarones salteados con ajo y sazón de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/camarones-al-ajillo/images/camarones-al-ajillo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -130,7 +132,9 @@
     ],
     "descripcion": "Camarones a la plancha, jugosos y bien sazonados.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/camarones-a-la-plancha/images/camarones-a-la-plancha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -145,7 +149,9 @@
     ],
     "descripcion": "Camarones dorados con una cubierta crujiente.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/camarones-apanados/images/camarones-apanados-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -235,7 +241,9 @@
     ],
     "descripcion": "Corvina con cubierta crujiente, frita al momento.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/corvina-apanada/images/corvina-apanada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -250,7 +258,9 @@
     ],
     "descripcion": "Corvina frita hasta quedar dorada y crujiente.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/corvina-frita/images/corvina-frita-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -374,7 +384,9 @@
     ],
     "descripcion": "Pescado cocido al vapor, ligero y lleno de sabor.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pescado-al-vapor/images/pescado-al-vapor-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -464,7 +476,9 @@
     ],
     "descripcion": "Porción especial de seco de pollo con acompañantes.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/seco-de-pollo-porcion-2/images/seco-de-pollo-porcion-2-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
