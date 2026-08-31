@@ -1,0 +1,24 @@
+{
+  "badge_category": "favorito",
+  "categories": {
+    "almuerzos": "Almuerzos",
+    "arroces-pescados": "Arroces \u0026 Pescados",
+    "bolones": "Bolones",
+    "camarones": "Camarones",
+    "ceviches": "Ceviches",
+    "corvinas": "Corvinas",
+    "encocados": "Encocados",
+    "pescados": "Pescados",
+    "secos": "Secos",
+    "tigrillos": "Tigrillos"
+  },
+  "currency": "$",
+  "hero_title": "El sabor que nos hace \u003cspan class=\"hl\"\u003esentir en casa\u003c/span\u003e",
+  "logo": "logo.png",
+  "site_title": "Tradición Manabita — Sabor de nuestra tierra",
+  "store_name": "Tradición Manabita",
+  "theme_accent": "#18A8D3",
+  "theme_primary": "#E54B16",
+  "whatsapp_message": "Hola, Tradición Manabita. Quiero hacer este pedido:",
+  "whatsapp_number": "593998048706"
+}
