@@ -1,17 +1,17 @@
 [
   {
     "id": "3d434951-7654-4f49-b156-f2de7d4abf4f",
-    "slug": "almuerzo-normal-con-encebollado",
-    "nombre": "Almuerzo normal con encebollado",
+    "slug": "almuerzo-normal",
+    "nombre": "Almuerzo normal",
     "precio": "2.50",
     "precio_promo": "",
     "categorias": [
       "almuerzos"
     ],
-    "descripcion": "Almuerzo casero acompañado de encebollado.",
+    "descripcion": "Delicioso almuerzo con sazón casero.",
     "stock": null,
     "imagenes": [
-      "/producto/almuerzo-normal-con-encebollado/images/almuerzo-normal-con-encebollado-1.webp"
+      "/producto/almuerzo-normal/images/almuerzo-normal-1.webp"
     ],
     "variantes": [],
     "sku": ""
