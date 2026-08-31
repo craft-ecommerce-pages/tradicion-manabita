@@ -166,7 +166,9 @@
     ],
     "descripcion": "Camarones en jugo cítrico con cebolla y cilantro.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-de-camaron/images/ceviche-de-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -181,7 +183,9 @@
     ],
     "descripcion": "Conchas frescas preparadas con limón, cebolla y cilantro.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-de-concha/images/ceviche-de-concha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -211,7 +215,9 @@
     ],
     "descripcion": "Combinación fresca de mariscos con el aliño de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-mixto/images/ceviche-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -226,7 +232,9 @@
     ],
     "descripcion": "Una porción generosa con variedad de mariscos frescos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-super-mixto/images/ceviche-super-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -431,7 +439,9 @@
     ],
     "descripcion": "Carne cocinada lentamente en salsa criolla, con acompañantes.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/seco-de-carne-porcion-1/images/seco-de-carne-porcion-1-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -446,7 +456,9 @@
     ],
     "descripcion": "Porción especial de seco de carne con acompañantes.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/seco-de-carne-porcion-2/images/seco-de-carne-porcion-2-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -461,7 +473,9 @@
     ],
     "descripcion": "Pollo en salsa criolla, servido con acompañantes.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/seco-de-pollo-porcion-1/images/seco-de-pollo-porcion-1-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
