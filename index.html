@@ -155,5 +155,27 @@
   <div class="toast" id="toast"></div>
 
   <script src="https://craft-catalog-engine.pages.dev/v1/catalog.js" defer></script>
+  <script defer>
+    (() => {
+      const applyCraftSystemsCredit = () => {
+        const footer = document.getElementById('footerText');
+        if (!footer) return;
+        const credit = footer.querySelector('.footer-credit');
+        if (!credit) return;
+        const link = credit.querySelector('a');
+        if (link && link.textContent !== 'Craft Systems') {
+          link.textContent = 'Craft Systems';
+          link.href = 'https://craftmarketing.agency';
+          link.setAttribute('aria-label', 'Craft Systems');
+        }
+      };
+      document.addEventListener('DOMContentLoaded', () => {
+        const footer = document.getElementById('footerText');
+        if (!footer) return;
+        new MutationObserver(applyCraftSystemsCredit).observe(footer, { childList: true, subtree: true });
+        applyCraftSystemsCredit();
+      });
+    })();
+  </script>
 </body>
 </html>
