@@ -1,10 +1,10 @@
-# CLAUDE.md — Las Hamburguesas del Gordo Paul
+# CLAUDE.md — Tradición Manabita
 
-Menú digital para **Las Hamburguesas del Gordo Paul** (smash burgers artesanales, Quito, Ecuador).
+Menú digital de **Tradición Manabita**, restaurante de cocina manabita en Ecuador.
 
 ## Tecnología
 
-Mismo stack que pizza-planet: HTML/CSS/JS vanilla, sin build.
+HTML/CSS/JS vanilla, sin build, sobre el motor compartido de craft-catalog.
 
 ```
 index.html          # UI
@@ -27,21 +27,19 @@ Todo lo demás de `config.json` (tema, tipografías, WhatsApp, ubicación, redes
 
 ## Datos del cliente
 
-- **WhatsApp pedidos**: +593986131942
-- **Ubicación**: Quito, Ecuador (mapa embebido en `config.location.map_embed`)
-- **Cloudflare Pages**: `las-hamburguesas-del-gordo-paul.pages.dev`
+- **WhatsApp pedidos**: +593 99 804 8706
+- **País**: Ecuador
+- **Cloudflare Pages**: `tradicion-manabita.pages.dev`
 
 ## Branding
 
-- **Paleta**: primary `#E4801C` (naranja) · accent `#F5B301` (ámbar) · fondo casi negro. En `config.json` (`theme_primary`/`theme_accent`) y defaults en `style.css`.
-- **Tipografías**: Anton (títulos display) + DM Sans (cuerpo).
+- **Paleta**: azul marino `#123D91`, celeste `#27B9E8` y naranja del logo como acento puntual.
+- **Tipografías**: Fraunces (títulos) + DM Sans (cuerpo).
 
-## Modelo de productos (hamburguesas)
+## Productos e imágenes
 
-- Variante **Presentación**: Simple / Doble / Triple (recargo por tamaño).
-- Variante **Tipo**: Sola / Combo (+ papas fritas + cola).
-- Variante **Vegetales** (solo las que llevan vegetales frescos): Con vegetales (lechuga, tomate, cebolla) / Sin vegetales.
-- Imágenes: se cargan desde la UI de craft-crm (no viven en el repo).
+Los platos e imágenes se administran desde craft-crm. Cada imagen vive en `media` del producto y
+catalogsync la descarga a `producto/<slug>/images/`, por lo que persiste en futuros resyncs.
 
 ## Deploy
 
