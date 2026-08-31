@@ -10,7 +10,9 @@
     ],
     "descripcion": "Almuerzo casero acompañado de encebollado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/almuerzo-normal-con-encebollado/images/almuerzo-normal-con-encebollado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -25,7 +27,9 @@
     ],
     "descripcion": "Arroz sazonado al estilo de la casa con camarones.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/arroz-con-camaron/images/arroz-con-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -295,7 +299,9 @@
     ],
     "descripcion": "Desayuno tradicional para comenzar el día con sabor manabita.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/desayuno/images/desayuno-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -429,7 +435,9 @@
     ],
     "descripcion": "Pescado frito en porción mediana, acompañado de encebollado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pescado-frito-mediano-con-encebollado/images/pescado-frito-mediano-con-encebollado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -444,7 +452,9 @@
     ],
     "descripcion": "Pescado frito acompañado de encebollado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pescado-frito-pequeno-con-encebollado/images/pescado-frito-pequeno-con-encebollado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
