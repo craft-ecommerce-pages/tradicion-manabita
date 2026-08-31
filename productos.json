@@ -10,9 +10,7 @@
     ],
     "descripcion": "Almuerzo casero acompañado de encebollado.",
     "stock": null,
-    "imagenes": [
-      "/producto/almuerzo-normal-encebollado/images/almuerzo-normal-encebollado-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -27,9 +25,7 @@
     ],
     "descripcion": "Arroz sazonado al estilo de la casa con camarones.",
     "stock": null,
-    "imagenes": [
-      "/producto/arroz-camaron/images/arroz-camaron-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -44,9 +40,7 @@
     ],
     "descripcion": "Arroz abundante con selección de mariscos y sazón costeña.",
     "stock": null,
-    "imagenes": [
-      "/producto/arroz-marinero/images/arroz-marinero-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -61,9 +55,7 @@
     ],
     "descripcion": "Arroz preparado con una sabrosa combinación de mariscos.",
     "stock": null,
-    "imagenes": [
-      "/producto/arroz-mixto/images/arroz-mixto-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -78,9 +70,7 @@
     ],
     "descripcion": "Bolón tradicional acompañado de café caliente.",
     "stock": null,
-    "imagenes": [
-      "/producto/bolon-cafe/images/bolon-cafe-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -95,9 +85,7 @@
     ],
     "descripcion": "Bolón de verde servido como desayuno completo.",
     "stock": null,
-    "imagenes": [
-      "/producto/bolon-completo/images/bolon-completo-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -112,9 +100,7 @@
     ],
     "descripcion": "Bolón de verde con relleno mixto.",
     "stock": null,
-    "imagenes": [
-      "/producto/bolon-mixto/images/bolon-mixto-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -129,9 +115,7 @@
     ],
     "descripcion": "Camarones salteados con ajo y sazón de la casa.",
     "stock": null,
-    "imagenes": [
-      "/producto/camarones-ajillo/images/camarones-ajillo-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -146,9 +130,7 @@
     ],
     "descripcion": "Camarones a la plancha, jugosos y bien sazonados.",
     "stock": null,
-    "imagenes": [
-      "/producto/camarones-plancha/images/camarones-plancha-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -163,9 +145,7 @@
     ],
     "descripcion": "Camarones dorados con una cubierta crujiente.",
     "stock": null,
-    "imagenes": [
-      "/producto/camarones-apanados/images/camarones-apanados-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -180,9 +160,7 @@
     ],
     "descripcion": "Camarones en jugo cítrico con cebolla y cilantro.",
     "stock": null,
-    "imagenes": [
-      "/producto/ceviche-camaron/images/ceviche-camaron-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -197,9 +175,7 @@
     ],
     "descripcion": "Conchas frescas preparadas con limón, cebolla y cilantro.",
     "stock": null,
-    "imagenes": [
-      "/producto/ceviche-concha/images/ceviche-concha-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -214,9 +190,7 @@
     ],
     "descripcion": "Pescado fresco marinado con limón, cebolla y cilantro.",
     "stock": null,
-    "imagenes": [
-      "/producto/ceviche-pescado/images/ceviche-pescado-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -231,9 +205,7 @@
     ],
     "descripcion": "Combinación fresca de mariscos con el aliño de la casa.",
     "stock": null,
-    "imagenes": [
-      "/producto/ceviche-mixto/images/ceviche-mixto-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -248,9 +220,7 @@
     ],
     "descripcion": "Una porción generosa con variedad de mariscos frescos.",
     "stock": null,
-    "imagenes": [
-      "/producto/ceviche-super-mixto/images/ceviche-super-mixto-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -265,9 +235,7 @@
     ],
     "descripcion": "Corvina con cubierta crujiente, frita al momento.",
     "stock": null,
-    "imagenes": [
-      "/producto/corvina-apanada/images/corvina-apanada-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -282,9 +250,7 @@
     ],
     "descripcion": "Corvina frita hasta quedar dorada y crujiente.",
     "stock": null,
-    "imagenes": [
-      "/producto/corvina-frita/images/corvina-frita-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -299,9 +265,7 @@
     ],
     "descripcion": "Desayuno tradicional para comenzar el día con sabor manabita.",
     "stock": null,
-    "imagenes": [
-      "/producto/desayuno/images/desayuno-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -316,9 +280,7 @@
     ],
     "descripcion": "Camarones bañados en salsa de coco y especias de la casa.",
     "stock": null,
-    "imagenes": [
-      "/producto/encocado-camaron/images/encocado-camaron-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -333,9 +295,7 @@
     ],
     "descripcion": "Pescado cocinado en una cremosa salsa de coco con sazón costeña.",
     "stock": null,
-    "imagenes": [
-      "/producto/encocado-pescado/images/encocado-pescado-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -350,9 +310,7 @@
     ],
     "descripcion": "Selección especial de mariscos cocinados en salsa de coco.",
     "stock": null,
-    "imagenes": [
-      "/producto/encocado-marinero/images/encocado-marinero-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -367,9 +325,7 @@
     ],
     "descripcion": "Combinación de mariscos en salsa de coco.",
     "stock": null,
-    "imagenes": [
-      "/producto/encocado-mixto/images/encocado-mixto-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -385,7 +341,7 @@
     "descripcion": "Filete de pescado a la plancha con sazón de la casa.",
     "stock": null,
     "imagenes": [
-      "/producto/filete-plancha/images/filete-plancha-1.webp"
+      "/producto/filete-a-la-plancha/images/filete-a-la-plancha-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -418,9 +374,7 @@
     ],
     "descripcion": "Pescado cocido al vapor, ligero y lleno de sabor.",
     "stock": null,
-    "imagenes": [
-      "/producto/pescado-vapor/images/pescado-vapor-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -435,9 +389,7 @@
     ],
     "descripcion": "Pescado frito en porción mediana, acompañado de encebollado.",
     "stock": null,
-    "imagenes": [
-      "/producto/pescado-frito-mediano-encebollado/images/pescado-frito-mediano-encebollado-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -452,9 +404,7 @@
     ],
     "descripcion": "Pescado frito acompañado de encebollado.",
     "stock": null,
-    "imagenes": [
-      "/producto/pescado-frito-pequeno-encebollado/images/pescado-frito-pequeno-encebollado-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -469,9 +419,7 @@
     ],
     "descripcion": "Carne cocinada lentamente en salsa criolla, con acompañantes.",
     "stock": null,
-    "imagenes": [
-      "/producto/seco-carne-porcion-1/images/seco-carne-porcion-1-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -486,9 +434,7 @@
     ],
     "descripcion": "Porción especial de seco de carne con acompañantes.",
     "stock": null,
-    "imagenes": [
-      "/producto/seco-carne-porcion-2/images/seco-carne-porcion-2-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -503,9 +449,7 @@
     ],
     "descripcion": "Pollo en salsa criolla, servido con acompañantes.",
     "stock": null,
-    "imagenes": [
-      "/producto/seco-pollo-porcion-1/images/seco-pollo-porcion-1-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -520,9 +464,7 @@
     ],
     "descripcion": "Porción especial de seco de pollo con acompañantes.",
     "stock": null,
-    "imagenes": [
-      "/producto/seco-pollo-porcion-2/images/seco-pollo-porcion-2-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -537,9 +479,7 @@
     ],
     "descripcion": "Verde majado con queso y el sabor tradicional de Manabí.",
     "stock": null,
-    "imagenes": [
-      "/producto/tigrillo-clasico/images/tigrillo-clasico-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
@@ -554,9 +494,7 @@
     ],
     "descripcion": "Nuestra preparación especial de tigrillo al estilo Jipijapa.",
     "stock": null,
-    "imagenes": [
-      "/producto/tigrillo-jipijapa/images/tigrillo-jipijapa-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   }
