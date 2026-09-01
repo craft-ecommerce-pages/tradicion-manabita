@@ -17,6 +17,8 @@
   },
   "category_order": [
     "desayunos",
+    "tigrillos",
+    "bolones",
     "almuerzos",
     "encebollados",
     "secos",
@@ -24,8 +26,6 @@
     "arroces",
     "encocados",
     "camarones",
-    "tigrillos",
-    "bolones",
     "ceviches",
     "bebidas",
     "extras"
