@@ -40,7 +40,7 @@
     "precio": "8.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-pescados"
+      "arroces"
     ],
     "descripcion": "Arroz sazonado al estilo de la casa con camarones.",
     "stock": null,
@@ -57,7 +57,7 @@
     "precio": "12.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-pescados"
+      "arroces"
     ],
     "descripcion": "Arroz abundante con selección de mariscos y sazón costeña.",
     "stock": null,
@@ -74,7 +74,7 @@
     "precio": "10.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-pescados"
+      "arroces"
     ],
     "descripcion": "Arroz preparado con una sabrosa combinación de mariscos.",
     "stock": null,
@@ -187,6 +187,40 @@
     "sku": ""
   },
   {
+    "id": "579147d0-599c-44e4-be09-ade1f7ad307c",
+    "slug": "cerveza-biela",
+    "nombre": "Cerveza Biela",
+    "precio": "2.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Cerveza lager bien fría, ideal para acompañar tu plato.",
+    "stock": null,
+    "imagenes": [
+      "/producto/cerveza-biela/images/cerveza-biela-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1edc6525-8cd9-4675-80fb-49f98b3b1340",
+    "slug": "cerveza-pilsener",
+    "nombre": "Cerveza Pilsener",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Cerveza lager ecuatoriana servida bien fría.",
+    "stock": null,
+    "imagenes": [
+      "/producto/cerveza-pilsener/images/cerveza-pilsener-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "4b10bcb9-e41e-4d0b-929d-de12c07342a3",
     "slug": "ceviche-de-camaron",
     "nombre": "Ceviche de camarón",
@@ -238,6 +272,23 @@
     "sku": ""
   },
   {
+    "id": "a72d67c8-bd69-42f5-8121-6aca152fa533",
+    "slug": "ceviche-jipijapa",
+    "nombre": "Ceviche Jipijapa",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Ceviche mixto al estilo Jipijapa, preparado con una cremosa salsa de maní, cebolla morada, cilantro y limón.",
+    "stock": null,
+    "imagenes": [
+      "/producto/ceviche-jipijapa/images/ceviche-jipijapa-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "a964ab69-a592-458d-8589-fd700bf55900",
     "slug": "ceviche-mixto",
     "nombre": "Ceviche mixto",
@@ -278,7 +329,7 @@
     "precio": "6.50",
     "precio_promo": "",
     "categorias": [
-      "corvinas"
+      "pescados"
     ],
     "descripcion": "Corvina con cubierta crujiente, frita al momento.",
     "stock": null,
@@ -295,7 +346,7 @@
     "precio": "5.00",
     "precio_promo": "",
     "categorias": [
-      "corvinas"
+      "pescados"
     ],
     "descripcion": "Corvina frita hasta quedar dorada y crujiente.",
     "stock": null,
@@ -349,6 +400,72 @@
     "descripcion": "",
     "stock": null,
     "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7a4a1f45-509a-46ee-829e-767ac8e1d540",
+    "slug": "desayuno-manaba",
+    "nombre": "Desayuno manaba",
+    "precio": "4.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "62e125f6-e599-4837-b51d-e1c502f97e91",
+    "slug": "encebollado-camaron",
+    "nombre": "Encebollado + camarón",
+    "precio": "4.50",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados"
+    ],
+    "descripcion": "Nuestro encebollado tradicional con camarones jugosos, yuca, cebolla morada y cilantro.",
+    "stock": null,
+    "imagenes": [
+      "/producto/encebollado-camaron/images/encebollado-camaron-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "545f791d-08a1-4a8c-8769-ab789c6dcfb6",
+    "slug": "encebollado-combo",
+    "nombre": "Encebollado combo",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados"
+    ],
+    "descripcion": "Encebollado con camarón acompañado de arroz blanco y gaseosa.",
+    "stock": null,
+    "imagenes": [
+      "/producto/encebollado-combo/images/encebollado-combo-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8ef273b3-0ef3-498c-9ff3-cbfdf0fe56ec",
+    "slug": "encebollado-normal",
+    "nombre": "Encebollado normal",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados"
+    ],
+    "descripcion": "Caldo tradicional de pescado y yuca, coronado con cebolla morada, cilantro y limón.",
+    "stock": null,
+    "imagenes": [
+      "/producto/encebollado-normal/images/encebollado-normal-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -455,6 +572,120 @@
     "sku": ""
   },
   {
+    "id": "8586e8ab-330b-4d24-baa5-feaa936bbbf3",
+    "slug": "gaseosa-mediana",
+    "nombre": "Gaseosa mediana",
+    "precio": "0.80",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Elige tu sabor favorito.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Coca",
+          "Sprite",
+          "Fanta",
+          "Fiora fresa"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "80055127-9ad7-4032-9ee3-d46d44be9ba4",
+    "slug": "gaseosa-pequena",
+    "nombre": "Gaseosa pequeña",
+    "precio": "0.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Elige tu sabor favorito.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Coca",
+          "Sprite",
+          "Fanta",
+          "Fiora fresa"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "32e9c940-05f3-41c0-9b82-f80fe91213e7",
+    "slug": "jugo-natural",
+    "nombre": "Jugo natural",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jugo de fruta preparado al momento; elige tu sabor favorito.",
+    "stock": null,
+    "imagenes": [
+      "/producto/jugo-natural/images/jugo-natural-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Guanábana",
+          "Naranja",
+          "Tomate de árbol",
+          "Mora"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "409db621-5e63-4e8c-9f6b-2acd991eefb3",
+    "slug": "limonada-jarra",
+    "nombre": "Limonada jarra",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jarra de limonada fresca para compartir.",
+    "stock": null,
+    "imagenes": [
+      "/producto/limonada-jarra/images/limonada-jarra-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f475760b-11ba-4ee3-bda2-8bfcf27158e3",
+    "slug": "limonada-vaso",
+    "nombre": "Limonada vaso",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada fresca preparada al momento y servida con hielo.",
+    "stock": null,
+    "imagenes": [
+      "/producto/limonada-vaso/images/limonada-vaso-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "8b7068ce-c85f-49f4-9462-e95b7a7c4dc3",
     "slug": "pescado-al-vapor",
     "nombre": "Pescado al vapor",
@@ -472,35 +703,86 @@
     "sku": ""
   },
   {
+    "id": "44419d81-35c2-49c9-86e0-57a68148c9a6",
+    "slug": "pescado-frito-grande",
+    "nombre": "Pescado frito grande",
+    "precio": "8.00",
+    "precio_promo": "",
+    "categorias": [
+      "pescados"
+    ],
+    "descripcion": "Pescado entero grande, dorado y crujiente, acompañado de patacones, ensalada y limón.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pescado-frito-grande/images/pescado-frito-grande-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "f37de846-b99b-4527-a920-feffd2d81f22",
-    "slug": "pescado-frito-mediano-con-encebollado",
-    "nombre": "Pescado frito mediano con encebollado",
+    "slug": "pescado-frito-mediano",
+    "nombre": "Pescado frito mediano",
     "precio": "6.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-pescados"
+      "pescados"
     ],
-    "descripcion": "Pescado frito en porción mediana, acompañado de encebollado.",
+    "descripcion": "Pescado entero mediano, frito al momento y servido con el sabor de la casa.",
     "stock": null,
     "imagenes": [
-      "/producto/pescado-frito-mediano-con-encebollado/images/pescado-frito-mediano-con-encebollado-1.webp"
+      "/producto/pescado-frito-mediano/images/pescado-frito-mediano-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
     "id": "39fc7c2e-2d6f-4410-babc-bb28576adcf0",
-    "slug": "pescado-frito-pequeno-con-encebollado",
-    "nombre": "Pescado frito pequeño con encebollado",
+    "slug": "pescado-frito-peq",
+    "nombre": "Pescado frito peq.",
     "precio": "5.00",
     "precio_promo": "",
     "categorias": [
-      "arroces-pescados"
+      "pescados"
     ],
-    "descripcion": "Pescado frito acompañado de encebollado.",
+    "descripcion": "Pescado entero pequeño, frito al momento hasta quedar dorado y crujiente.",
     "stock": null,
     "imagenes": [
-      "/producto/pescado-frito-pequeno-con-encebollado/images/pescado-frito-pequeno-con-encebollado-1.webp"
+      "/producto/pescado-frito-peq/images/pescado-frito-peq-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "439b38e7-17de-4ab5-a362-86dbb2b21ae8",
+    "slug": "porcion-de-arroz",
+    "nombre": "Porción de arroz",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "extras"
+    ],
+    "descripcion": "Porción de arroz blanco, suave y recién preparado.",
+    "stock": null,
+    "imagenes": [
+      "/producto/porcion-de-arroz/images/porcion-de-arroz-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a92c7620-72e4-4c4e-86c0-4b29e43d6bc5",
+    "slug": "porcion-de-patacon",
+    "nombre": "Porción de patacón",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "extras"
+    ],
+    "descripcion": "Patacones de verde dorados y crujientes, fritos al momento.",
+    "stock": null,
+    "imagenes": [
+      "/producto/porcion-de-patacon/images/porcion-de-patacon-1.webp"
     ],
     "variantes": [],
     "sku": ""
