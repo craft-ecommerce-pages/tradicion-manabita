@@ -306,19 +306,49 @@
     "sku": ""
   },
   {
-    "id": "c4de7e39-9744-4c1f-83cf-2503a7eb775a",
-    "slug": "desayuno",
-    "nombre": "Desayuno",
-    "precio": "3.00",
+    "id": "3020e379-a068-4212-affa-ae5b4372204c",
+    "slug": "desayuno-completo",
+    "nombre": "Desayuno completo",
+    "precio": "4.00",
     "precio_promo": "",
     "categorias": [
-      "almuerzos"
+      "desayunos"
     ],
-    "descripcion": "Desayuno tradicional para comenzar el día con sabor manabita.",
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c4de7e39-9744-4c1f-83cf-2503a7eb775a",
+    "slug": "desayuno-continental",
+    "nombre": "Desayuno continental",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "Huevos al gusto, pan tostado, fruta fresca y una bebida caliente para empezar el día.",
     "stock": null,
     "imagenes": [
-      "/producto/desayuno/images/desayuno-1.webp"
+      "/producto/desayuno-continental/images/desayuno-continental-1.webp"
     ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "963eec75-8de5-4bf1-b325-7a0dafc0dc4f",
+    "slug": "desayuno-crucita",
+    "nombre": "Desayuno Crucita",
+    "precio": "4.50",
+    "precio_promo": "",
+    "categorias": [
+      "desayunos"
+    ],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
