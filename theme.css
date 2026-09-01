@@ -57,8 +57,8 @@ body{
 .sticky-bar{background:rgba(247,252,255,.95);box-shadow:0 8px 28px rgba(18,61,145,.08)}
 .search-box input,.cat-chip{background:#fff}
 .search-box input{box-shadow:0 5px 18px rgba(40,52,77,.05)}
-.cat-chip.active{color:#fff;box-shadow:0 6px 16px rgba(18,61,145,.28)}
-.cat-chip.active .lb{color:#fff}
+.cat-chip.active{color:#123D91;box-shadow:0 6px 16px rgba(18,61,145,.28)}
+.cat-chip.active .lb{color:#123D91}
 .cat-header{font-family:'Fraunces',Georgia,serif;font-size:19px;letter-spacing:-.01em;text-transform:none;color:var(--text)}
 .cat-header::after{background:linear-gradient(90deg,rgba(39,185,232,.38),transparent)}
 
