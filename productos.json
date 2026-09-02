@@ -229,7 +229,7 @@
     "categorias": [
       "ceviches"
     ],
-    "descripcion": "Camarones en jugo cítrico con cebolla y cilantro.",
+    "descripcion": "Camarones jugosos bañados en un aliño cítrico y fresco con cebolla morada, tomate y cilantro, acompañados de una porción aparte de canguil crocante.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-de-camaron/images/ceviche-de-camaron-1.webp"
@@ -246,7 +246,7 @@
     "categorias": [
       "ceviches"
     ],
-    "descripcion": "Conchas frescas preparadas con limón, cebolla y cilantro.",
+    "descripcion": "Conchas frescas con su intenso sabor marino, limón, cebolla morada, tomate y cilantro, acompañadas de una porción aparte de canguil crocante.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-de-concha/images/ceviche-de-concha-1.webp"
@@ -263,7 +263,7 @@
     "categorias": [
       "ceviches"
     ],
-    "descripcion": "Pescado fresco marinado con limón, cebolla y cilantro.",
+    "descripcion": "Dados de pescado fresco marinados en limón con cebolla morada, tomate y cilantro, acompañados de una porción aparte de canguil crocante.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-de-pescado/images/ceviche-de-pescado-1.webp"
@@ -280,7 +280,7 @@
     "categorias": [
       "ceviches"
     ],
-    "descripcion": "Ceviche mixto al estilo Jipijapa, preparado con una cremosa salsa de maní, cebolla morada, cilantro y limón.",
+    "descripcion": "Ceviche mixto al estilo Jipijapa, envuelto en una cremosa salsa de maní con cebolla morada, cilantro y limón, acompañado de una porción aparte de canguil crocante.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-jipijapa/images/ceviche-jipijapa-1.webp"
@@ -297,7 +297,7 @@
     "categorias": [
       "ceviches"
     ],
-    "descripcion": "Combinación fresca de mariscos con el aliño de la casa.",
+    "descripcion": "Pescado fresco y camarones jugosos unidos por un aliño cítrico con cebolla morada, tomate y cilantro, acompañados de una porción aparte de canguil crocante.",
     "stock": null,
     "imagenes": [
       "/producto/ceviche-mixto/images/ceviche-mixto-1.webp"
@@ -769,7 +769,7 @@
     "categorias": [
       "pescados"
     ],
-    "descripcion": "Pescado entero mediano, frito al momento y servido con el sabor de la casa.",
+    "descripcion": "Pescado entero mediano con piel dorada y crujiente, servido con patacones recién hechos y encurtido fresco. Sin arroz.",
     "stock": null,
     "imagenes": [
       "/producto/pescado-frito-mediano/images/pescado-frito-mediano-1.webp"
@@ -786,7 +786,7 @@
     "categorias": [
       "pescados"
     ],
-    "descripcion": "Pescado entero pequeño, frito al momento hasta quedar dorado y crujiente.",
+    "descripcion": "Pescado entero pequeño, dorado y crujiente recién salido de la fritura, con patacones y encurtido fresco. Sin arroz.",
     "stock": null,
     "imagenes": [
       "/producto/pescado-frito-peq/images/pescado-frito-peq-1.webp"
