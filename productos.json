@@ -365,10 +365,29 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "",
+    "descripcion": "Un desayuno de los que abrazan: elige un seco de pollo tierno o de carne jugosa, servido con huevos recién hechos, pan calientito y jugo fresco o café aromático.",
     "stock": null,
-    "imagenes": null,
-    "variantes": [],
+    "imagenes": [
+      "/producto/desayuno-completo/images/desayuno-completo-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Seco",
+        "options": [
+          "Pollo",
+          "Carne"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Bebida",
+        "options": [
+          "Jugo",
+          "Café"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -392,15 +411,26 @@
     "id": "963eec75-8de5-4bf1-b325-7a0dafc0dc4f",
     "slug": "desayuno-crucita",
     "nombre": "Desayuno Crucita",
-    "precio": "4.50",
+    "precio": "4.40",
     "precio_promo": "",
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "",
+    "descripcion": "Sabor costeño desde el primer bocado: tortilla de huevo doradita con camarones jugosos, acompañada de un seco de carne suave y lleno de sazón, más jugo fresco o café aromático.",
     "stock": null,
-    "imagenes": null,
-    "variantes": [],
+    "imagenes": [
+      "/producto/desayuno-crucita/images/desayuno-crucita-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Bebida",
+        "options": [
+          "Jugo",
+          "Café"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -412,10 +442,21 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "",
+    "descripcion": "Puro Manabí servido caliente: bolón mixto de verde, queso fundido y chicharrón, junto a un seco de carne jugoso y bien sazonado, con jugo fresco o café aromático.",
     "stock": null,
-    "imagenes": null,
-    "variantes": [],
+    "imagenes": [
+      "/producto/desayuno-manaba/images/desayuno-manaba-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Bebida",
+        "options": [
+          "Jugo",
+          "Café"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
