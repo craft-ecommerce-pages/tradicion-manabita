@@ -348,7 +348,7 @@
     "categorias": [
       "pescados"
     ],
-    "descripcion": "Corvina frita hasta quedar dorada y crujiente.",
+    "descripcion": "Filete de corvina dorado por fuera y jugoso por dentro, frito al momento y servido con patacones crujientes y encurtido fresco.",
     "stock": null,
     "imagenes": [
       "/producto/corvina-frita/images/corvina-frita-1.webp"
@@ -399,7 +399,7 @@
     "categorias": [
       "desayunos"
     ],
-    "descripcion": "Huevos al gusto, pan tostado, fruta fresca y una bebida caliente para empezar el día.",
+    "descripcion": "Huevos suaves recién preparados, pan fresco y esponjoso sin tostar, fruta de temporada y café caliente para comenzar el día con puro gusto.",
     "stock": null,
     "imagenes": [
       "/producto/desayuno-continental/images/desayuno-continental-1.webp"
@@ -752,7 +752,7 @@
     "categorias": [
       "pescados"
     ],
-    "descripcion": "Pescado entero grande, dorado y crujiente, acompañado de patacones, ensalada y limón.",
+    "descripcion": "Pescado entero grande, frito al momento hasta quedar dorado y crujiente, acompañado de patacones recién hechos y encurtido fresco. Sin arroz.",
     "stock": null,
     "imagenes": [
       "/producto/pescado-frito-grande/images/pescado-frito-grande-1.webp"
@@ -837,7 +837,7 @@
     "categorias": [
       "secos"
     ],
-    "descripcion": "Carne cocinada lentamente en salsa criolla, con acompañantes.",
+    "descripcion": "Tiernos trozos de carne cocinados lentamente en una salsa criolla llena de sabor, acompañados de arroz blanco y papa cocinada. Sin maduro.",
     "stock": null,
     "imagenes": [
       "/producto/seco-de-carne-porcion-1/images/seco-de-carne-porcion-1-1.webp"
@@ -854,7 +854,7 @@
     "categorias": [
       "secos"
     ],
-    "descripcion": "Porción especial de seco de carne con acompañantes.",
+    "descripcion": "Una porción generosa de carne suave bañada en nuestra salsa criolla, con arroz blanco y papa cocinada que absorbe todo su sabor. Sin maduro.",
     "stock": null,
     "imagenes": [
       "/producto/seco-de-carne-porcion-2/images/seco-de-carne-porcion-2-1.webp"
@@ -871,7 +871,7 @@
     "categorias": [
       "secos"
     ],
-    "descripcion": "Pollo en salsa criolla, servido con acompañantes.",
+    "descripcion": "Pollo tierno y jugoso cocinado en salsa criolla casera, acompañado de arroz blanco y papa cocinada. Sin maduro.",
     "stock": null,
     "imagenes": [
       "/producto/seco-de-pollo-porcion-1/images/seco-de-pollo-porcion-1-1.webp"
@@ -888,7 +888,7 @@
     "categorias": [
       "secos"
     ],
-    "descripcion": "Porción especial de seco de pollo con acompañantes.",
+    "descripcion": "Una porción abundante de pollo tierno en salsa criolla bien sazonada, servida con arroz blanco y papa cocinada. Sin maduro.",
     "stock": null,
     "imagenes": [
       "/producto/seco-de-pollo-porcion-2/images/seco-de-pollo-porcion-2-1.webp"
