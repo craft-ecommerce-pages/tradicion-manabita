@@ -157,6 +157,16 @@
   <script src="https://craft-catalog-engine.pages.dev/v1/catalog.js" defer></script>
   <script defer>
     (() => {
+      const contactEmail = 'gonzalonarvaez.g@gmail.com';
+      const applyLocationEmail = () => {
+        if (!document.body.classList.contains('location-view')) return;
+        const card = document.querySelector('.sede-card');
+        if (!card || card.querySelector('.sede-email')) return;
+        const row = document.createElement('div');
+        row.className = 'sede-row sede-email';
+        row.innerHTML = `<span aria-hidden="true">✉</span><a href="mailto:${contactEmail}">${contactEmail}</a>`;
+        card.appendChild(row);
+      };
       const applyCraftSystemsCredit = () => {
         const footer = document.getElementById('footerText');
         if (!footer) return;
@@ -174,6 +184,8 @@
         if (!footer) return;
         new MutationObserver(applyCraftSystemsCredit).observe(footer, { childList: true, subtree: true });
         applyCraftSystemsCredit();
+        new MutationObserver(applyLocationEmail).observe(document.body, { childList: true, subtree: true });
+        applyLocationEmail();
       });
     })();
   </script>

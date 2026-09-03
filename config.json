@@ -32,6 +32,19 @@
   ],
   "currency": "$",
   "hero_title": "El sabor que nos hace \u003cspan class=\"hl\"\u003esentir en casa\u003c/span\u003e",
+  "location": {
+    "map_embed": "",
+    "sedes": [
+      {
+        "nombre": "Tradición Manabita",
+        "direccion": "Av. El Inca E14-135 y Los Nogales",
+        "telefono": "0998048706 - 0991698248",
+        "email": "gonzalonarvaez.g@gmail.com"
+      }
+    ],
+    "telefono_principal": "593998048706"
+  },
+  "location_intro": "Av. El Inca E14-135 y Los Nogales",
   "logo": "logo.png",
   "site_title": "Tradición Manabita — Sabor de nuestra tierra",
   "store_name": "Tradición Manabita",
