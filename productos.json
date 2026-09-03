@@ -59,7 +59,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz con camarones jugosos, salteados con arroz sazonado y vegetales, acompañado de tajadas de plátano maduro frito, doradas y caramelizadas. Sin patacones.",
+    "descripcion": "Arroz marinero abundante con camarones, calamar, pescado y mejillones, preparado con sazón costeña y acompañado de plátano maduro frito, dorado y caramelizado. Sin patacones.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-marinero/images/arroz-marinero-1.webp"
@@ -76,7 +76,7 @@
     "categorias": [
       "arroces"
     ],
-    "descripcion": "Arroz preparado con una sabrosa combinación de mariscos.",
+    "descripcion": "Arroz mixto abundante con camarones, calamar y pescado, lleno de sabor costeño y acompañado de tajadas de plátano maduro frito, doradas y caramelizadas. Sin patacones.",
     "stock": null,
     "imagenes": [
       "/producto/arroz-mixto/images/arroz-mixto-1.webp"
@@ -587,7 +587,7 @@
     "categorias": [
       "pescados"
     ],
-    "descripcion": "Filete de pescado a la plancha con sazón de la casa.",
+    "descripcion": "Filete de pescado a la plancha, tierno y dorado con hierbas, acompañado de arroz sazonado, ensalada fresca y limón. Sin aguacate.",
     "stock": null,
     "imagenes": [
       "/producto/filete-a-la-plancha/images/filete-a-la-plancha-1.webp"
