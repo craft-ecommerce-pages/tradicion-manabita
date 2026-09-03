@@ -829,6 +829,23 @@
     "sku": ""
   },
   {
+    "id": "bbeca3e5-32cc-4a19-bdf6-3050d48920d1",
+    "slug": "seco-de-carne-1",
+    "nombre": "Seco de carne # 1",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Tiernos trozos de carne cocinados lentamente en una salsa criolla llena de sabor, acompañados de arroz blanco y papa cocinada. Sin maduro.",
+    "stock": null,
+    "imagenes": [
+      "/producto/seco-de-carne-1/images/seco-de-carne-1-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "644af5fb-8e3c-4a4c-b909-82db7ab4ef6b",
     "slug": "seco-de-carne-2",
     "nombre": "Seco de carne # 2",
@@ -841,23 +858,6 @@
     "stock": null,
     "imagenes": [
       "/producto/seco-de-carne-2/images/seco-de-carne-2-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "bbeca3e5-32cc-4a19-bdf6-3050d48920d1",
-    "slug": "seco-de-carne-porcion-1",
-    "nombre": "Seco de carne · porción 1",
-    "precio": "3.00",
-    "precio_promo": "",
-    "categorias": [
-      "secos"
-    ],
-    "descripcion": "Tiernos trozos de carne cocinados lentamente en una salsa criolla llena de sabor, acompañados de arroz blanco y papa cocinada. Sin maduro.",
-    "stock": null,
-    "imagenes": [
-      "/producto/seco-de-carne-porcion-1/images/seco-de-carne-porcion-1-1.webp"
     ],
     "variantes": [],
     "sku": ""
