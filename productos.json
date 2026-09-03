@@ -829,6 +829,23 @@
     "sku": ""
   },
   {
+    "id": "644af5fb-8e3c-4a4c-b909-82db7ab4ef6b",
+    "slug": "seco-de-carne-2",
+    "nombre": "Seco de carne # 2",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Una porción generosa de carne suave bañada en nuestra salsa criolla, con arroz blanco y papa cocinada que absorbe todo su sabor. Sin maduro.",
+    "stock": null,
+    "imagenes": [
+      "/producto/seco-de-carne-2/images/seco-de-carne-2-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "bbeca3e5-32cc-4a19-bdf6-3050d48920d1",
     "slug": "seco-de-carne-porcion-1",
     "nombre": "Seco de carne · porción 1",
@@ -846,18 +863,18 @@
     "sku": ""
   },
   {
-    "id": "644af5fb-8e3c-4a4c-b909-82db7ab4ef6b",
-    "slug": "seco-de-carne-porcion-2",
-    "nombre": "Seco de carne · porción 2",
-    "precio": "3.50",
+    "id": "bf8af95a-3034-447e-a6e8-01fdd9cf8550",
+    "slug": "seco-de-pollo-1",
+    "nombre": "Seco de pollo # 1",
+    "precio": "3.00",
     "precio_promo": "",
     "categorias": [
       "secos"
     ],
-    "descripcion": "Una porción generosa de carne suave bañada en nuestra salsa criolla, con arroz blanco y papa cocinada que absorbe todo su sabor. Sin maduro.",
+    "descripcion": "Pollo tierno y jugoso cocinado en salsa criolla casera, acompañado de arroz blanco y papa cocinada. Sin maduro.",
     "stock": null,
     "imagenes": [
-      "/producto/seco-de-carne-porcion-2/images/seco-de-carne-porcion-2-1.webp"
+      "/producto/seco-de-pollo-1/images/seco-de-pollo-1-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -875,23 +892,6 @@
     "stock": null,
     "imagenes": [
       "/producto/seco-de-pollo-2/images/seco-de-pollo-2-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "bf8af95a-3034-447e-a6e8-01fdd9cf8550",
-    "slug": "seco-de-pollo-porcion-1",
-    "nombre": "Seco de pollo · porción 1",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "secos"
-    ],
-    "descripcion": "Pollo tierno y jugoso cocinado en salsa criolla casera, acompañado de arroz blanco y papa cocinada. Sin maduro.",
-    "stock": null,
-    "imagenes": [
-      "/producto/seco-de-pollo-porcion-1/images/seco-de-pollo-porcion-1-1.webp"
     ],
     "variantes": [],
     "sku": ""
