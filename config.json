@@ -33,7 +33,7 @@
   "currency": "$",
   "hero_title": "El sabor que nos hace \u003cspan class=\"hl\"\u003esentir en casa\u003c/span\u003e",
   "location": {
-    "map_embed": "",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3989.803963752136!2d-78.47093512503544!3d-0.1537045998447795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwMDknMTMuMyJTIDc4wrAyOCcwNi4xIlc!5e0!3m2!1ses!2sec!4v1788454284664!5m2!1ses!2sec",
     "sedes": [
       {
         "nombre": "Tradición Manabita",
