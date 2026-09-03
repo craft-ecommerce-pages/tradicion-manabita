@@ -863,6 +863,23 @@
     "sku": ""
   },
   {
+    "id": "b5b19a69-280f-4f1f-880d-386b329f3d19",
+    "slug": "seco-de-pollo-2",
+    "nombre": "Seco de pollo # 2",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "secos"
+    ],
+    "descripcion": "Una porción abundante de pollo tierno en salsa criolla bien sazonada, servida con arroz blanco y papa cocinada. Sin maduro.",
+    "stock": null,
+    "imagenes": [
+      "/producto/seco-de-pollo-2/images/seco-de-pollo-2-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "bf8af95a-3034-447e-a6e8-01fdd9cf8550",
     "slug": "seco-de-pollo-porcion-1",
     "nombre": "Seco de pollo · porción 1",
@@ -875,23 +892,6 @@
     "stock": null,
     "imagenes": [
       "/producto/seco-de-pollo-porcion-1/images/seco-de-pollo-porcion-1-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "b5b19a69-280f-4f1f-880d-386b329f3d19",
-    "slug": "seco-de-pollo-porcion-2",
-    "nombre": "Seco de pollo · porción 2",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "secos"
-    ],
-    "descripcion": "Una porción abundante de pollo tierno en salsa criolla bien sazonada, servida con arroz blanco y papa cocinada. Sin maduro.",
-    "stock": null,
-    "imagenes": [
-      "/producto/seco-de-pollo-porcion-2/images/seco-de-pollo-porcion-2-1.webp"
     ],
     "variantes": [],
     "sku": ""
